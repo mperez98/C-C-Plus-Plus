@@ -2,8 +2,6 @@
 //  DayCalc.c
 //  PracticeProblems
 //
-//  Created by Mathew Perez on 9/9/18.
-//  Copyright © 2018 Mathew Perez. All rights reserved.
 //
 
 #include <assert.h>
