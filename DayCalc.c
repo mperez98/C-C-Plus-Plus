@@ -1,8 +1,6 @@
 //
 //  DayCalc.c
 //  PracticeProblems
-//
-//
 
 #include <assert.h>
 #include <ctype.h>
